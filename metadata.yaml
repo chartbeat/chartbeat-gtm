@@ -1,0 +1,5 @@
+homepage: "https://www.chartbeat.com"
+documentation: "http://support.chartbeat.com/docs/"
+versions:
+  - sha: b24eb1cfc78f1322571e256de6c39a3807dda52c
+    changeNotes: Initial Version
